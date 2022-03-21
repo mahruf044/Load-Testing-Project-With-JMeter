@@ -10,7 +10,7 @@
 
 3.**Report folder**:Contains report for each concurrent request.
 
-4.**reqres_Summary_report**:Text file of overall summerry report.
+4.**reqres_Summary_report**:Text file of overall summarry report.
 
 
 The requests were set using **JMeter** app and the test cases for different user had been run  in **CLI** mode and reports for each test cases had been also generated im
