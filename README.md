@@ -46,3 +46,5 @@ While executed 125 concurrent request, found  1 request got connection timeout a
 Summary: Server can handle almost concurrent 744 API call with almost zero (0) error rate.
 
 Please find the details report from the attachment and  let me know if you have any further queries. 
+
+Sample Live Report Link for 120 User:[Load Testing Reqres With 120 Concurrent User](https://mahruf044.github.io/LoadTestingReqres120/)
