@@ -28,11 +28,18 @@ I’ve completed performance test on frequently used API for reqres.in App.
 Test executed for the below mentioned scenario in server 103.86.197.3. 
 
 50 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 5 And Total Concurrent API requested: 300.
+
 100 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 10 And Total Concurrent API requested: 600.
+
 115 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 11.5 And Total Concurrent API requested: 690.
+
 120 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 12 And Total Concurrent API requested: 720.
+
 123 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 12.3 And Total Concurrent API requested: 738.
+
 125 Concurrent Request with 1 Loop Count; Avg TPS for Total Samples is ~ 12 And Total Concurrent API requested: 750.
+
+
 
 While executed 125 concurrent request, found  1 request got connection timeout and error rate is 0.13%. 
 
