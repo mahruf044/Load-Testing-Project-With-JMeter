@@ -22,7 +22,7 @@ The requests were set using **JMeter** app and the test cases for different user
 
 ## Download jmx files from the jmx folder to test these on JMeter app.You can also download the jtl files from jtl folder to generate the report on CLI mode.
 
-## Summaray Report:
+## Summary Report:
 
 I’ve completed performance test on frequently used API for reqres.in App. 
 Test executed for the below mentioned scenario in server 103.86.197.3. 
